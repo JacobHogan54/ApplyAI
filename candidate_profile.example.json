@@ -1,0 +1,69 @@
+{
+  "name": "Sample Candidate",
+  "location": "Sample City, ST",
+  "education": [
+    {
+      "institution": "Example University",
+      "degree": "B.S. Computer Science",
+      "graduation": "2027"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "SQL"
+    ],
+    "databases": [
+      "PostgreSQL"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "Linux"
+    ],
+    "technical_support": [
+      "PC hardware/software troubleshooting",
+      "software installation",
+      "basic networking"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Example Company",
+      "role": "Customer Service Associate",
+      "dates": "2024-Present",
+      "bullets": [
+        "Provided customer service in a high-volume environment.",
+        "Balanced customer requests with competing operational priorities.",
+        "Resolved routine customer issues and coordinated with teammates."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Example Local AI Application",
+      "technologies": [
+        "Python",
+        "Streamlit",
+        "Ollama"
+      ],
+      "bullets": [
+        "Built and debugged a local AI application.",
+        "Integrated structured model output with deterministic validation.",
+        "Troubleshot model and application integration issues."
+      ]
+    }
+  ],
+  "leadership_and_activities": [
+    "Participated in technical clubs and collaborative project work."
+  ],
+  "certifications": [
+    "Example Technical Certification"
+  ],
+  "important_limits": [
+    "No Salesforce experience documented.",
+    "No professional SaaS support experience documented.",
+    "No professional CRM case-management experience documented."
+  ]
+}

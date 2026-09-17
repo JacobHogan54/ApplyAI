@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ApplyAI local user data
+.applyai/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User resumes / uploaded files
+*.pdf
+uploads/
+resumes/
+
+# Local candidate data / personal settings
+candidate_settings.json
+candidate_profile.json
+
+# Logs / temporary files
+*.log
+*.tmp

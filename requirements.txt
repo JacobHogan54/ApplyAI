@@ -1,0 +1,5 @@
+streamlit
+ollama
+pydantic
+pypdf
+pytest
